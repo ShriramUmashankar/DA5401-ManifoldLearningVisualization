@@ -22,7 +22,7 @@
 After unzipping, the directory should look like this:
 ```
 Assignment5/
-├── Assn3.ipynb
+├── Assn5.ipynb
 └── yeast.csv
 ```
 ## Notes
